@@ -24,12 +24,14 @@ This project automates the process of placing AWS environments in "maintenance m
 
 ## File Structure
 
+``` text
 aws-maintenance-mode/
 ├── backup_rds.sh
 ├── cleanup.py
 ├── requirements.txt
 ├── deleted_resources_report.md
 └── README.md
+```
 
 ## Deliverables
 
